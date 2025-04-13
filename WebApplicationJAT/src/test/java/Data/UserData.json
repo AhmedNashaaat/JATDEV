@@ -1,0 +1,15 @@
+[
+  {
+    "Email":"ibrahim@gmail.com",
+    "Password":"Ahmedtest.123459",
+    "FName": "Ibrahim",
+    "LName": "Ahmed",
+    "BirthDate": "01/23/2000",
+    "Street":"Cairo",
+    "PostalCode": "252515",
+    "City": "Cairo",
+    "State": "Egypt",
+    "Country": "DZ",
+    "Phone": "0123456789"
+  }
+]
